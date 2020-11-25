@@ -1,0 +1,8 @@
+site_name: "AO"
+site_description: "hackathon"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
